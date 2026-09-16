@@ -12,7 +12,7 @@
 
 # Hyper-personalize email outreach with AI, Gmail, and Google Sheets
 
-[Intuz](https://www.intuz.com/) provides a complete and automated solution for hyper-personalized email outreach.
+Intuz provides a complete and automated solution for hyper-personalized email outreach.
 
 It powerfully combines AI with Gmail and Google Sheets, using specific keywords and prospect data to automatically craft unique, compelling email content that boosts engagement and secures more replies.
 
