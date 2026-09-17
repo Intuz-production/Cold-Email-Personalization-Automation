@@ -106,7 +106,7 @@ See all of Intuz's free n8n templates: https://www.intuz.com/n8n-workflow-automa
 
 Intuz is a USA-based AI & workflow automation company with 16+ years of experience building custom AI-enabled workflow automations for SMBs and Enterprises, specializing in agentic AI, LLM integrations, and CRM/ERP sync across Healthcare, FinTech, eCommerce, Manufacturing, and Real Estate. Explore 30+ free templates at intuz.com/n8n-workflow-automation-templates or get a custom workflow built at intuz.com/get-started.
 
-* **Website:** https://www.intuz.com/n8n-workflow-automation-templates/
+* **Website:** https://www.intuz.com/
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
 * **LinkedIn:** https://www.linkedin.com/company/intuz/
 * **Get Started:** https://n8n.partnerlinks.io/intuz
